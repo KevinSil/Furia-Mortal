@@ -1,0 +1,6 @@
+gAtlas.id=3 width=641 height=288
+idle.tex.id=0 frameW=0 frameH=0 colunas=7
+walk.tex.id=0 frameW=0 frameH=0 colunas=8
+run.tex.id=0 frameW=0 frameH=0 colunas=8
+gHitbox.x=16 y=16 w=32 h=32
+gCam.offset.x=192 offset.y=192
